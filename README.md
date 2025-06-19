@@ -62,6 +62,6 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 
 ---
 
-Served: ServBay
+Served by ServBay: https://www.servbay.com.
 
 ![logo black@256px.png](logo%20black%40256px.png)
